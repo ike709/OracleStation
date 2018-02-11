@@ -541,12 +541,7 @@
 /area/ruin/powered)
 "bB" = (
 /obj/structure/easel,
-/obj/item/paper/pamphlet{
-	icon = 'icons/obj/fluff.dmi';
-	icon_state = "painting4";
-	info = "<i>This picture depicts a crudely-drawn stickman firing a crudely-drawn gun.</i>";
-	name = "Painting - 'BANG' "
-	},
+/obj/item/paper/pamphlet/ruin/originalcontent/stickman,
 /turf/open/indestructible/paper,
 /area/ruin/powered)
 "bC" = (
@@ -609,12 +604,7 @@
 	dir = 1
 	},
 /obj/structure/easel,
-/obj/item/paper/pamphlet{
-	icon = 'icons/obj/fluff.dmi';
-	icon_state = "painting1";
-	info = "<i>This picture depicts a sunny day on a lush hillside, set under a shaded tree.</i>";
-	name = "Painting - 'Treeside' "
-	},
+/obj/item/paper/pamphlet/ruin/originalcontent/treeside,
 /turf/open/indestructible/paper,
 /area/ruin/powered)
 "bK" = (
@@ -716,12 +706,7 @@
 	dir = 8
 	},
 /obj/structure/easel,
-/obj/item/paper/pamphlet{
-	icon = 'icons/obj/fluff.dmi';
-	icon_state = "painting3";
-	info = "<i>This picture depicts a smiling clown. Something doesn't feel right about this..</i>";
-	name = "Painting - 'Pennywise' "
-	},
+/obj/item/paper/pamphlet/ruin/originalcontent/pennywise,
 /turf/open/indestructible/paper,
 /area/ruin/powered)
 "bX" = (
@@ -869,12 +854,7 @@
 "cr" = (
 /obj/structure/fluff/paper,
 /obj/structure/easel,
-/obj/item/paper/pamphlet{
-	icon = 'icons/obj/fluff.dmi';
-	icon_state = "painting2";
-	info = "<i>This picture depicts a man yelling on a bridge for no apparent reason.</i>";
-	name = "Painting - 'Hands-On-Face' "
-	},
+/obj/item/paper/pamphlet/ruin/originalcontent/yelling,
 /turf/open/indestructible/paper,
 /area/ruin/powered)
 "cs" = (
@@ -917,8 +897,6 @@
 /area/ruin/powered)
 
 (1,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -983,8 +961,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1011,8 +987,6 @@ aa
 aa
 "}
 (3,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1076,8 +1050,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1105,8 +1077,6 @@ aa
 aa
 "}
 (5,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1167,8 +1137,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1199,8 +1167,6 @@ aa
 aa
 "}
 (7,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1256,8 +1222,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ab
 ae
 ae
@@ -1293,8 +1257,6 @@ aa
 aa
 "}
 (9,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1348,8 +1310,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ab
 ae
 ai
@@ -1387,8 +1347,6 @@ aa
 aa
 "}
 (11,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1441,8 +1399,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ab
 ai
 af
@@ -1481,8 +1437,6 @@ af
 bd
 "}
 (13,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1535,8 +1489,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1575,8 +1527,6 @@ aw
 be
 "}
 (15,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1627,8 +1577,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1669,8 +1617,6 @@ aa
 aa
 "}
 (17,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1719,8 +1665,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1763,8 +1707,6 @@ aa
 aa
 "}
 (19,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -1812,8 +1754,6 @@ aa
 (20,1,1) = {"
 aa
 aa
-aa
-aa
 ab
 ai
 af
@@ -1859,8 +1799,6 @@ aa
 (21,1,1) = {"
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -1904,8 +1842,6 @@ aa
 aa
 "}
 (22,1,1) = {"
-aa
-aa
 ab
 ae
 ai
@@ -1951,8 +1887,6 @@ aa
 aa
 "}
 (23,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -1998,8 +1932,6 @@ aa
 aa
 "}
 (24,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2045,8 +1977,6 @@ aa
 aa
 "}
 (25,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2092,8 +2022,6 @@ aa
 aa
 "}
 (26,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2139,8 +2067,6 @@ aa
 aa
 "}
 (27,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2186,8 +2112,6 @@ aa
 aa
 "}
 (28,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2233,8 +2157,6 @@ aa
 aa
 "}
 (29,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2280,8 +2202,6 @@ aa
 aa
 "}
 (30,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2327,8 +2247,6 @@ aa
 aa
 "}
 (31,1,1) = {"
-aa
-aa
 ac
 af
 af
@@ -2374,8 +2292,6 @@ aa
 aa
 "}
 (32,1,1) = {"
-aa
-aa
 ad
 ag
 af
@@ -2422,8 +2338,6 @@ aa
 "}
 (33,1,1) = {"
 aa
-aa
-aa
 ac
 af
 al
@@ -2468,8 +2382,6 @@ aa
 aa
 "}
 (34,1,1) = {"
-aa
-aa
 aa
 ac
 af
@@ -2516,8 +2428,6 @@ aa
 "}
 (35,1,1) = {"
 aa
-aa
-aa
 ac
 af
 am
@@ -2562,8 +2472,6 @@ aa
 aa
 "}
 (36,1,1) = {"
-aa
-aa
 aa
 ac
 af
@@ -2610,8 +2518,6 @@ aa
 "}
 (37,1,1) = {"
 aa
-aa
-aa
 ah
 aj
 an
@@ -2656,8 +2562,6 @@ aa
 aa
 "}
 (38,1,1) = {"
-aa
-aa
 aa
 ac
 af
@@ -2704,8 +2608,6 @@ aa
 "}
 (39,1,1) = {"
 aa
-aa
-aa
 ad
 ag
 af
@@ -2750,8 +2652,6 @@ aa
 aa
 "}
 (40,1,1) = {"
-aa
-aa
 aa
 aa
 ad
@@ -2800,8 +2700,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ad
 ag
 af
@@ -2844,8 +2742,6 @@ aa
 aa
 "}
 (42,1,1) = {"
-aa
-aa
 aa
 aa
 aa
@@ -2897,8 +2793,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ac
 af
 af
@@ -2944,8 +2838,6 @@ aa
 aa
 aa
 aa
-aa
-aa
 ad
 aw
 aw
@@ -2985,8 +2877,6 @@ aa
 aa
 "}
 (45,1,1) = {"
-aa
-aa
 aa
 aa
 aa
